@@ -17,9 +17,9 @@ This project uses OpenCV and Haar Cascade classifiers to detect **faces**, **eye
 - 
 ## 📂 Project Structure
 project/
-│
-├── haarcascade_frontalface_default.xml
-├── haarcascade_eye.xml
+|
+|--- haarcascade_frontalface_default.xml
+|---haarcascade_eye.xml
 ├── haarcascade_smile.xml
 └── main.py
 
