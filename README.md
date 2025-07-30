@@ -15,11 +15,5 @@ This project uses OpenCV and Haar Cascade classifiers to detect **faces**, **eye
 - Computer Vision
 - Real-Time Object Detection
 - 
-## 📂 Project Structure
-project/
-|
-|--- haarcascade_frontalface_default.xml
-|---haarcascade_eye.xml
-├── haarcascade_smile.xml
-└── main.py
+
 
